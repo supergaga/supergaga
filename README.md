@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫:shaonant@gmail.com 
+- 📫 shaonant@gmail.com 
 
 
