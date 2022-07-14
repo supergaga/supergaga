@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 📫 shaonant@gmail.com 
 - 🌱 I’m currently learning distributed system design.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supergaga)](https://github.com/anuraghazra/github-readme-stats)
 
